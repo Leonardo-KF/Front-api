@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(212, 212, 212);
+}
+
+#lista {
+  margin-top: 30px;
+}
+#model-film {
+  margin-left: 10px;
+}
+
+#formulario {
+  display: none;
+}
