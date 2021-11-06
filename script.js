@@ -1,4 +1,4 @@
-const apiURL = "https://lkfilmes-api.herokuapp.com";
+const apiURL = "http://localhost:3000";
 const list = document.getElementById("lista");
 const cadastro = document.getElementById("bar-cadastro");
 const form = document.getElementById("formulario");
